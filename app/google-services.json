@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782415660417",
+    "project_id": "appturismo-3cd42",
+    "storage_bucket": "appturismo-3cd42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782415660417:android:dc45d9325c9ee7eafd9480",
+        "android_client_info": {
+          "package_name": "com.edu.ufps.appturismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8Dne8Ewuv2xQB6P0mCC790akHftOxBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
